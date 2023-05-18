@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 .vscode/
 
-data/
+data/*.parquet
 datasets/
 tmp*/
 pytest_cache/

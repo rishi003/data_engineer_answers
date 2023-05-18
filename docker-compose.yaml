@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: server/Dockerfile
     volumes:
-      - ./data:./data
+      - ./data:/app/data
     ports:
       - "5000:5000"
   dagster:
