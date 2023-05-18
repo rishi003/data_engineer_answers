@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    volumes:
+      - ./data:./data
+    ports:
+      - "5000:5000"
+  dagster:
+    build:
+      context: .
+      dockerfile: dockerize-dagster/Dockerfile
+    env_file:
+      - .env
+    volumes:
+      - ./data:/opt/dagster/app/data
+      - ./datasets:/opt/dagster/app/datasets
+    ports:
+      - "3000:3000"

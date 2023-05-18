@@ -1,0 +1,15 @@
+dagster
+dagster-cloud
+dagster-docker
+pandas
+pyarrow
+joblib
+scikit-learn
+flask
+kaggle
+python-dotenv
+pytest-dotenv
+
+[dev]
+dagit
+pytest

@@ -1,0 +1,150 @@
+2023-05-18 11:39:48 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:40:48 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:41:48 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:42:48 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:43:48 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:44:48 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:45:49 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:46:49 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:47:49 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:48:49 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:49:28 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - RUN_START - Started execution of run for "stocks_etl_job".
+2023-05-18 11:49:28 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - ENGINE_EVENT - Executing steps using multiprocess executor: parent process (pid: 18336)
+2023-05-18 11:49:28 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - load_data - STEP_WORKER_STARTING - Launching subprocess for "load_data".
+2023-05-18 11:49:36 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - STEP_WORKER_STARTED - Executing step "load_data" in subprocess.
+2023-05-18 11:49:36 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - load_data - RESOURCE_INIT_STARTED - Starting initialization of resources [io_manager].
+2023-05-18 11:49:36 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - load_data - RESOURCE_INIT_SUCCESS - Finished initialization of resources [io_manager].
+2023-05-18 11:49:36 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - LOGS_CAPTURED - Started capturing logs in process (pid: 10440).
+2023-05-18 11:49:37 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - load_data - STEP_START - Started execution of step "load_data".
+2023-05-18 11:49:49 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:50:50 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:51:50 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:49:49 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:50:50 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:51:50 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:52:50 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:53:50 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:54:50 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:55:51 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:56:51 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:57:51 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:58:51 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 11:59:52 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:00:52 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:01:52 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:02:52 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:03:53 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:04:53 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:05:53 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:06:53 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:07:53 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:08:08 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - load_data - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+2023-05-18 12:08:08 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - load_data - Writing file at: \run-data\dagster-artifact-storage\storage\load_data
+2023-05-18 12:08:51 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - load_data - ASSET_MATERIALIZATION - Materialized value load_data.
+2023-05-18 12:08:51 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - load_data - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+2023-05-18 12:08:51 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 10440 - load_data - STEP_SUCCESS - Finished execution of step "load_data" in 19m14s.
+2023-05-18 12:08:52 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - transform_data - STEP_WORKER_STARTING - Launching subprocess for "transform_data".
+2023-05-18 12:08:54 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:08:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - STEP_WORKER_STARTED - Executing step "transform_data" in subprocess.
+2023-05-18 12:08:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - RESOURCE_INIT_STARTED - Starting initialization of resources [io_manager].
+2023-05-18 12:08:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - RESOURCE_INIT_SUCCESS - Finished initialization of resources [io_manager].
+2023-05-18 12:08:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - LOGS_CAPTURED - Started capturing logs in process (pid: 14416).
+2023-05-18 12:08:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - STEP_START - Started execution of step "transform_data".
+2023-05-18 12:08:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - transform_data - Loading file from: \run-data\dagster-artifact-storage\storage\load_data
+2023-05-18 12:09:12 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - ASSET_OBSERVATION - ASSET_OBSERVATION for step transform_data
+2023-05-18 12:09:12 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - LOADED_INPUT - Loaded input "load_data" using input manager "io_manager", from output "result" of step "load_data"
+2023-05-18 12:09:12 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - STEP_INPUT - Got input "load_data" of type "DataFrame". (Type check passed).
+2023-05-18 12:09:54 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:10:54 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:11:39 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+2023-05-18 12:11:39 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - transform_data - Writing file at: \run-data\dagster-artifact-storage\storage\transform_data
+2023-05-18 12:11:56 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:12:57 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:13:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - ASSET_MATERIALIZATION - Materialized value transform_data.
+2023-05-18 12:13:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+2023-05-18 12:13:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 14416 - transform_data - STEP_SUCCESS - Finished execution of step "transform_data" in 4m29s.
+2023-05-18 12:13:45 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - preprocessed_data - STEP_WORKER_STARTING - Launching subprocess for "preprocessed_data".
+2023-05-18 12:13:52 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - STEP_WORKER_STARTED - Executing step "preprocessed_data" in subprocess.
+2023-05-18 12:13:52 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - RESOURCE_INIT_STARTED - Starting initialization of resources [io_manager].
+2023-05-18 12:13:52 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - RESOURCE_INIT_SUCCESS - Finished initialization of resources [io_manager].
+2023-05-18 12:13:52 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - LOGS_CAPTURED - Started capturing logs in process (pid: 18108).
+2023-05-18 12:13:52 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - STEP_START - Started execution of step "preprocessed_data".
+2023-05-18 12:13:52 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - preprocessed_data - Loading file from: \run-data\dagster-artifact-storage\storage\transform_data
+2023-05-18 12:13:58 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:13:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - ASSET_OBSERVATION - ASSET_OBSERVATION for step preprocessed_data
+2023-05-18 12:13:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - LOADED_INPUT - Loaded input "transform_data" using input manager "io_manager", from 
+output "result" of step "transform_data"
+2023-05-18 12:13:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - STEP_INPUT - Got input "transform_data" of type "DataFrame". (Type check passed).
+2023-05-18 12:13:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+2023-05-18 12:13:59 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - preprocessed_data - Writing file at: \run-data\dagster-artifact-storage\storage\preprocessed_data
+2023-05-18 12:14:59 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:15:35 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - ASSET_MATERIALIZATION - Materialized value preprocessed_data.
+2023-05-18 12:15:35 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+2023-05-18 12:15:35 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18108 - preprocessed_data - STEP_SUCCESS - Finished execution of step "preprocessed_data" in 1m35s.
+2023-05-18 12:15:35 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - train_model - STEP_WORKER_STARTING - Launching subprocess for "train_model".
+2023-05-18 12:15:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - STEP_WORKER_STARTED - Executing step "train_model" in subprocess.
+2023-05-18 12:15:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - RESOURCE_INIT_STARTED - Starting initialization of resources [io_manager].
+2023-05-18 12:15:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - RESOURCE_INIT_SUCCESS - Finished initialization of resources [io_manager].
+2023-05-18 12:15:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - LOGS_CAPTURED - Started capturing logs in process (pid: 7972).
+2023-05-18 12:15:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - STEP_START - Started execution of step "train_model".
+2023-05-18 12:15:42 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - train_model - Loading file from: \run-data\dagster-artifact-storage\storage\preprocessed_data
+2023-05-18 12:15:49 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - ASSET_OBSERVATION - ASSET_OBSERVATION for step train_model
+2023-05-18 12:15:49 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - LOADED_INPUT - Loaded input "preprocessed_data" using input manager "io_manager", from output "result" of step "preprocessed_data"
+2023-05-18 12:15:49 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - STEP_INPUT - Got input "preprocessed_data" of type "Any". (Type check passed).
+2023-05-18 12:15:59 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+[Parallel(n_jobs=-1)]: Using backend ThreadingBackend with 8 concurrent workers.
+2023-05-18 12:17:00 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:18:00 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:19:01 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:20:01 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:21:01 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:22:02 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:23:02 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:24:02 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:25:03 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:26:03 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed: 10.2min
+2023-05-18 12:27:03 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:28:04 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:29:04 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:30:04 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:31:05 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:32:05 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:33:05 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:34:06 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:35:06 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:36:06 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:37:07 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:38:07 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:39:08 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:40:08 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:41:08 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:42:09 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:43:09 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+[Parallel(n_jobs=-1)]: Done 100 out of 100 | elapsed: 27.2min finished
+[Parallel(n_jobs=8)]: Using backend ThreadingBackend with 8 concurrent workers.
+[Parallel(n_jobs=8)]: Done  34 tasks      | elapsed:    2.6s
+[Parallel(n_jobs=8)]: Done 100 out of 100 | elapsed:    7.0s finished
+2023-05-18 12:43:31 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+2023-05-18 12:43:31 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - train_model - Writing file at: \run-data\dagster-artifact-storage\storage\train_model
+2023-05-18 12:43:31 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - ASSET_MATERIALIZATION - Materialized value train_model.
+2023-05-18 12:43:31 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+2023-05-18 12:43:31 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 7972 - train_model - STEP_SUCCESS - Finished execution of step "train_model" in 27m42s.
+2023-05-18 12:43:33 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - ENGINE_EVENT - Multiprocess executor: parent process exiting after 54m4s (pid: 18336)
+2023-05-18 12:43:33 -0400 - dagster - DEBUG - stocks_etl_job - 79d45098-76d8-422e-8575-045ad7a55bde - 18336 - RUN_SUCCESS - Finished execution of run for "stocks_etl_job".
+2023-05-18 12:44:09 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:45:09 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:46:09 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:47:10 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:48:10 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:49:10 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:50:10 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:51:10 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:52:11 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:53:11 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:54:11 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:55:11 -0400 - dagster.daemon.SensorDaemon - INFO - Not checking for any runs since no sensors have been started.
+2023-05-18 12:56:00 -0400 - dagster - INFO - Shutting down Dagster services...
+2023-05-18 12:56:05 -0400 - dagster.daemon - INFO - Received interrupt, shutting down daemon threads...
+2023-05-18 12:56:05 -0400 - dagster.daemon - INFO - Daemon threads shut down.
+2023-05-18 12:56:05 -0400 - dagster - INFO - Dagster services shut down.
